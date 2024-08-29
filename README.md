@@ -1,6 +1,6 @@
 # MindCare: An AI-driven Chatbot for Emotional Assistance
 
-MindCare is an AI-driven chatbot designed to provide emotional assistance through natural language conversations. By leveraging advanced Natural Language Processing (NLP) models and fine-tuning techniques, MindCare is equipped to offer empathetic and supportive responses to individuals seeking mental health counseling. This project is centered on creating a meaningful dialogue experience that can be a valuable tool in mental health support.
+MindCare is an AI-driven chatbot designed to provide emotional assistance through natural language conversations. By leveraging advanced Natural Language Processing (NLP) models and fine-tuning techniques, MindCare is equipped to offer empathetic and supportive responses to individuals seeking mental health counseling. This project is centered on creating a meaningful dialogue experience that can be a valuable tool in mental health support. This project was developed as part of the course "DA 624".
 
 ## Features
 
